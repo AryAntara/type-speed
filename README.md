@@ -4,7 +4,7 @@ Metered your typing speed
 node type.js
 
 #output will be :
->> [c] type | # type something here
+>> [c] type | # type something here And next output will be applied
 >> [!] your speed is [speedApearHere] word(s) per seconds
 >> [v] you fast good! #some appreciate for you speed type, :v
 
